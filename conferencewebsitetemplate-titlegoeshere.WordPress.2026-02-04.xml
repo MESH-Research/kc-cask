@@ -1862,7 +1862,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:table {"hasFixedLayout":false,"className":"is-style-regular"} -->
-<figure class="wp-block-table is-style-regular"><table><thead><tr><th>Time</th><th>Event Name</th><th>Speaker Name</th><th>Location</th></tr></thead><tbody><tr><td>9:00 AM to<br>10:00 AM</td><td>Event 1 - Rheotric and Learning</td><td>John Doe</td><td>Kresge Art Center</td></tr><tr><td>10:00 AM to<br>11:00 AM</td><td>Event 2 - Title</td><td>Speaker Name</td><td>Room and building location</td></tr></tbody></table></figure>
+<figure class="wp-block-table is-style-regular"><table><thead><tr><th>Time</th><th>Event Name</th><th>Speaker Name</th><th>Location</th></tr></thead><tbody><tr><td>9:00 AM to<br>10:00 AM</td><td>Event 1 - Rhetoric and Learning</td><td>John Doe</td><td>Kresge Art Center</td></tr><tr><td>10:00 AM to<br>11:00 AM</td><td>Event 2 - Title</td><td>Speaker Name</td><td>Room and building location</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:spacer {"height":"21px"} -->
@@ -1878,7 +1878,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:spacer -->
 
 <!-- wp:table {"hasFixedLayout":false,"className":"is-style-regular"} -->
-<figure class="wp-block-table is-style-regular"><table><thead><tr><th>Time</th><th>Event Name</th><th>Speaker Name</th><th>Location</th></tr></thead><tbody><tr><td>9:00 AM to<br>10:00 AM</td><td>Event 1 - Rheotric and Learning</td><td>John Doe</td><td>Kresge Art Center</td></tr><tr><td>10:00 AM to<br>11:00 AM</td><td>Event 2 - Title</td><td>Speaker Name</td><td>Room and building location</td></tr></tbody></table></figure>
+<figure class="wp-block-table is-style-regular"><table><thead><tr><th>Time</th><th>Event Name</th><th>Speaker Name</th><th>Location</th></tr></thead><tbody><tr><td>9:00 AM to<br>10:00 AM</td><td>Event 1 - Rhetoric and Learning</td><td>John Doe</td><td>Kresge Art Center</td></tr><tr><td>10:00 AM to<br>11:00 AM</td><td>Event 2 - Title</td><td>Speaker Name</td><td>Room and building location</td></tr></tbody></table></figure>
 <!-- /wp:table --></main>
 <!-- /wp:group -->
 
